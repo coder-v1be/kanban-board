@@ -44,10 +44,10 @@
 
 
 <p align="center">
-  <img src="docs/screenshot1.png" width="45%" />
-  <img src="docs/screenshot2.png" width="45%" />
-  <img src="docs/screenshot3.png" width="45%" />
-  <img src="docs/screenshot4.png" width="45%" />
+  <img src="docs/Screenshot1.png" width="45%" />
+  <img src="docs/Screenshot2.png" width="45%" />
+  <img src="docs/Screenshot3.png" width="45%" />
+  <img src="docs/Screenshot4.png" width="45%" />
 </p>
 
 
